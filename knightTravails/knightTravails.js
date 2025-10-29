@@ -91,5 +91,3 @@ function getPossibleMoves(x, y) {
   }
   return allMoves;
 }
-
-knightMoves([0, 0], [0, 1])
